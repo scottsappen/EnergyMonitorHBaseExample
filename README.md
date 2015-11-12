@@ -1,0 +1,2 @@
+# EnergyMonitorHBaseExample
+foobar
